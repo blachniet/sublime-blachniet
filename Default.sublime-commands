@@ -1,8 +1,8 @@
 [{
-    "caption": "blachniet::Open Containg Folder (explore .,ii .)",
+    "caption": "dev-blachniet::Open Containg Folder (explore .,ii .)",
     "command": "open_containing_folder"
 },
 {
-    "caption": "blachniet::Open PowerShell Here (ps .)",
+    "caption": "dev-blachniet::Open PowerShell Here (ps .)",
     "command": "open_power_shell_here"
 }]
