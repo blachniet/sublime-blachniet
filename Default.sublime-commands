@@ -1,0 +1,8 @@
+[{
+    "caption": "blachniet::Open Containg Folder (Explore)",
+    "command": "open_containing_folder"
+},
+{
+    "caption": "blachniet::Open PowerShell Here",
+    "command": "open_power_shell_here"
+}]
